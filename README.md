@@ -1,1 +1,1 @@
-# Domaci-MIPS-
+Domaci 1 (Mikroprocesorski sistemi)
